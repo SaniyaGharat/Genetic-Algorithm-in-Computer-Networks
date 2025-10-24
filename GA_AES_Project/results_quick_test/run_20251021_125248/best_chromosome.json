@@ -1,0 +1,36 @@
+{
+  "rotations": [
+    3,
+    3,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    3,
+    3
+  ],
+  "rcon_multipliers": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    3,
+    1,
+    3,
+    1,
+    2
+  ],
+  "fitness": 0.6940209600576671,
+  "metrics": {
+    "avalanche_mean": 25.09375,
+    "avalanche_std": 2.430127070365869,
+    "encryption_time": 0.029740333557128906,
+    "entropy": 6.987729610331113,
+    "avalanche_score": 0.5018750000000001,
+    "entropy_score": 0.8734662012913891,
+    "speed_score": 0.7707703322341678
+  }
+}

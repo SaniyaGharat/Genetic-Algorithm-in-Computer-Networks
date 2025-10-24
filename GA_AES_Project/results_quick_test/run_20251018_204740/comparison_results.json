@@ -1,0 +1,17 @@
+{
+  "standard": {
+    "avalanche_mean": 25.06640625,
+    "avalanche_std": 2.1875383646189355,
+    "encryption_time": 0.03304719924926758,
+    "entropy": 6.707705678471364,
+    "ciphertext_entropy": 7.792841976483517
+  },
+  "optimized": {
+    "avalanche_mean": 24.98046875,
+    "avalanche_std": 2.1362402343526785,
+    "encryption_time": 0.03442645072937012,
+    "entropy": 6.933696798239335,
+    "ciphertext_entropy": 7.792841976483517
+  },
+  "correctness": true
+}
